@@ -10054,9 +10054,9 @@ p.lead {
 .project-img{
   height: 300px;
   padding: 1rem;
+  /* width: auto; */
   background-color: whitesmoke;
-  /* object-fit: cover;
-  filter: brightness(50%); */
+  object-fit: contain;
 }
 
 .project-img-mini{
